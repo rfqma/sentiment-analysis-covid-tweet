@@ -1,4 +1,3 @@
-# proyekakhirprakds
 Analisis Sentimen Terhadap Tweet Masyarakat Indonesia Tentang Covid dan Pemerintah dengan Algoritma Naive Bayes Classifier
 
 Sumber dataset: https://www.kaggle.com/dionisiusdh/covid19-indonesian-twitter-sentiment?select=covid-sentiment.csv
